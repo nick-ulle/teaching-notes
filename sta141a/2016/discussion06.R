@@ -28,16 +28,50 @@ plt
 
 # The data seems to have a trend.
 #
-# y = (slope * x) + intercept
-# y = (   b1 * x) + b0
-# y = ( -0.1 * x) + 30
+# y = (  slope * x) + intercept
+# y = (     b1 * x) + b0
+# y = ((-5/50) * x) + 30
 
 plt = plt + geom_abline(intercept = 30, slope = -0.1, color = "tomato",
   linetype = "dashed")
 
 # How well does our line fit the data?
+#
+# y = ((-5/50) * x) + 30
 
-elm$line = (-0.1 * elm$family_income) + 30
+elm$fitted = (-5/50) * elm$family_income + 30
+
+# The residuals are the differences between the true values and the line.
+
+elm$resid = elm$gift_aid - elm$fitted
+
+ggplot(elm, aes(family_income, resid)) + geom_point() +
+  geom_hline(yintercept = 0)
+
+mean(elm$resid) # off by about $113 on average
+sd(elm$resid)
+
+sum(elm$resid) # negatives and positives cancel out
+
+sum(abs(elm$resid))
+
+sum(elm$resid^2)
+
+# What if we choose the line that has the smallest squared residuals? This is
+# what "least squares" does! (the default for linear models)
+#
+# The sum of the squared residuals emphasizes large errors. This is more
+# conservative than the sum of their absolute values.
+#
+# The best way to measure error really depends on the problem!
+
+model = lm(gift_aid ~ family_income, elm)
+plt + geom_abline(intercept = coef(model)[[1]], slope = coef(model)[[2]],
+  color = "tomato", linetype = "dashed")
+
+# Box-Cox transformations to fix residuals with "strange patterns"
+
+# (Pearson) Correlation tells us how "linear" the data is.
 
 elm$error = (elm$gift_aid - elm$line)
 
@@ -82,8 +116,8 @@ ggplot(df, aes(family_income, .resid)) + geom_point() +
 # 2. Independent observations. The observations should not depend on each
 #    other. As an example, a time series would violate this condition.
 #
-# 3. Constant variance. The typical distance of observations from the line
-#    should be the same across all values of the predictor variable (x).
+# 3. Constant variance. Observations should be roughly the same distance from
+#    the line across all values of the predictor variable x.
 #
 # 4. Gaussian residuals. In order to construct confidence intervals for or test
 #    the model, the residuals must have a Gaussian (normal) distribution.
