@@ -10,5 +10,5 @@ Course   | Topics
 -------- | ------
 STA 135  | multivariate statistics, machine learning
 STA 141  | R basics, visualization, string processing, databases, web scraping
-STA 141a | R basics, visualization, string processing, web scraping
-STA 141b | Python basics, visualization, web scraping, databases
+STA 141a | R basics, visualization, writing, computational statistics
+STA 141b | Python basics, visualization, string processing, web scraping, databases
