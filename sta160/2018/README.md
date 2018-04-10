@@ -4,7 +4,7 @@ _Instructor: D. Temple Lang_
 
 Week | Topic
 ---: | -----
-1    | [Introduction](sta160_intro.slides.html)
+1    | [Introduction](sta160_intro.ipynb)
 2    | Version Control with git
 3    | The UNIX Shell
 4    | Presentation Skills
