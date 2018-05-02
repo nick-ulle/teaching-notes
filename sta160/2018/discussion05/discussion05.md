@@ -82,4 +82,13 @@ others should write down thoughts. For example:
 
 After a speaker finishes, spend a minute or two giving them your feedback.
 
+## References
+
+* Lebrun. When The Scientist Presents. 2010.
+* Lebrun. Scientific Writing 2.0. 2011.
+* Alred, Brusaw, Oliu. Handbook of Technical Writing. 2003.
+* Yau. Visualize This: The FlowingData Guide to Design, Visualization, and
+  Statistics. 2011.
+* [Google Style Guide](https://developers.google.com/style/)
+
 ## `find` and `grep`
