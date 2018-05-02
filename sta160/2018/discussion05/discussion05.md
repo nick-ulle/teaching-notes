@@ -42,11 +42,13 @@ Plan to present on Tuesday (although you might not present until Thursday).
 * Slides
     + Don't make comparisons to previous slides
     + Support claims with evidence
-    + Design visuals carefully (see handout)
+    + Design visuals carefully (see [handout][])
     + Make uncluttered slides
     + Make self-contained slides
     + Use plain language
     + Plan for at least 30 seconds (probably 1 minute) per slide
+
+[handout]: ../../../sta141a/graphics_checklist.pdf
 
 ### Types of Slides
 
