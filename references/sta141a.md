@@ -60,6 +60,7 @@
 * [I Quant NY](http://iquantny.tumblr.com/)
 * [Visualizing Urban Data](http://vudlab.com/)
 * [Computational Story Lab](http://www.uvm.edu/storylab/)
+* [The Pudding](https://pudding.cool/)
 
 
 ### Counterexamples
