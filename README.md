@@ -1,14 +1,40 @@
 # Teaching Notes
 
-Notes for various courses I've taught or assisted with at UC Davis eventually
-end up here. I'm still in the process of adding some courses, so watch this
-repository if you want to be informed of updates.
+What's in this repository?
 
-For those unfamiliar with UC Davis' course numbers:
+1. Notes that aren't for specific courses, such as my [SQL Cheatsheet][sql].
+2. Notes from when I was a teaching assistant at UC Davis (2013 - 2018):
 
-Course   | Topics                    
--------- | ------
-STA 135  | multivariate statistics, machine learning
-STA 141  | R basics, visualization, string processing, databases, web scraping
-STA 141a | R basics, visualization, writing, computational statistics
-STA 141b | Python basics, visualization, string processing, web scraping, databases
+Course   | Year(s) | Term   | Topics
+-------- | ------- | ------ | ------
+STA 141B | 2017-18 | Winter | Python, data extraction & cleaning
+STA 141A | 2016-17 | Fall   | R, exploratory data analysis, programming fundamentals
+STA 141  | 2013-15 | Fall   | R, mix of STA 141AB topics
+
+<!--
+STA 135  | 2014    | Spring | Multivariate statistics, machine learning
+-->
+
+[sql]: workshops/sql_cheatsheet.pdf
+
+## My Other Teaching Notes
+
+Notes from classes I instructed are in separate repositories.
+
+As an Associate Instructor at UC Davis:
+
+Year  | Term       | Course     | Repository
+----- | ---------- | ---------- | ------
+2019  | Winter     | STA 141B   | -
+2018  | Fall       | STA 141A   | [Link](https://github.com/nick-ulle/2018-ucdavis-sta141a)
+2016  | Spring     | STS 98     | [Link](https://github.com/2016-ucdavis-sts98/notes)
+2014  | Summer II  | STA 13     | -
+
+As a Neyman Visiting Assistant Professor at UC Berkeley:
+
+Year | Term     | Course   | Repository
+-----|----------|----------|------
+2020 | Fall     | STAT 33A | -
+2020 | Fall     | STAT 33B | -
+2020 | Spring   | STAT 33A | -
+2020 | Spring   | STAT 33B | -
