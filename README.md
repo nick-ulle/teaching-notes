@@ -7,6 +7,7 @@ What's in this repository?
 
 Course   | Year(s) | Term   | Topics
 -------- | ------- | ------ | ------
+STA 160  | 2017-18 | Spring | Applied statistics projects
 STA 141B | 2017-18 | Winter | Python, data extraction & cleaning
 STA 141A | 2016-17 | Fall   | R, exploratory data analysis, programming fundamentals
 STA 141  | 2013-15 | Fall   | R, mix of STA 141AB topics
@@ -25,7 +26,7 @@ As an Associate Instructor at UC Davis:
 
 Year  | Term       | Course     | Repository
 ----- | ---------- | ---------- | ------
-2019  | Winter     | STA 141B   | -
+2019  | Winter     | STA 141B   | [Link](https://github.com/2019-winter-ucdavis-sta141b/notes)
 2018  | Fall       | STA 141A   | [Link](https://github.com/nick-ulle/2018-ucdavis-sta141a)
 2016  | Spring     | STS 98     | [Link](https://github.com/2016-ucdavis-sts98/notes)
 2014  | Summer II  | STA 13     | -
