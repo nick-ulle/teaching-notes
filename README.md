@@ -26,10 +26,14 @@ As an Associate Instructor at UC Davis:
 
 Year  | Term       | Course     | Repository
 ----- | ---------- | ---------- | ------
-2019  | Winter     | STA 141B   | [Link](https://github.com/2019-winter-ucdavis-sta141b/notes)
-2018  | Fall       | STA 141A   | [Link](https://github.com/nick-ulle/2018-ucdavis-sta141a)
-2016  | Spring     | STS 98     | [Link](https://github.com/2016-ucdavis-sts98/notes)
+2019  | Winter     | STA 141B   | [Link][2019-winter-sta141b]
+2018  | Fall       | STA 141A   | [Link][2018-fall-sta141a]
+2016  | Spring     | STS 98     | [Link][2016-spring-sts98]
 2014  | Summer II  | STA 13     | -
+
+[2019-winter-sta141b]: https://github.com/2019-winter-ucdavis-sta141b/notes
+[2018-fall-sta141a]: https://github.com/nick-ulle/2018-ucdavis-sta141a
+[2016-spring-sts98]: https://github.com/2016-ucdavis-sts98/notes
 
 As a Neyman Visiting Assistant Professor at UC Berkeley:
 
@@ -37,5 +41,7 @@ Year | Term     | Course   | Repository
 -----|----------|----------|------
 2020 | Fall     | STAT 33A | -
 2020 | Fall     | STAT 33B | -
-2020 | Spring   | STAT 33A | -
-2020 | Spring   | STAT 33B | -
+2020 | Spring   | STAT 33A | [Link][2020-spring-stat33ab]
+2020 | Spring   | STAT 33B | [Link][2020-spring-stat33ab]
+
+[2020-spring-stat33ab]: https://github.com/IntroToProgrammingWithR/2020-spring-stat33ab
