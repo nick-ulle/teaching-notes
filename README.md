@@ -20,7 +20,7 @@ STA 135  | 2014    | Spring | Multivariate statistics, machine learning
 
 ## My Other Teaching Notes
 
-Notes from classes I instructed are in separate repositories.
+Notes from classes I instructed/developed are in separate repositories.
 
 As an Associate Instructor at UC Davis:
 
@@ -39,9 +39,11 @@ As a Neyman Visiting Assistant Professor at UC Berkeley:
 
 Year | Term     | Course   | Repository
 -----|----------|----------|------
-2020 | Fall     | STAT 33A | -
-2020 | Fall     | STAT 33B | -
+2020 | Fall     | STAT 33A | [Link][2020-fall-stat33a]
+2020 | Fall     | STAT 33B | [Link][2020-fall-stat33b]
 2020 | Spring   | STAT 33A | [Link][2020-spring-stat33ab]
 2020 | Spring   | STAT 33B | [Link][2020-spring-stat33ab]
 
 [2020-spring-stat33ab]: https://github.com/IntroToProgrammingWithR/2020-spring-stat33ab
+[2020-fall-stat33a]: https://github.com/IntroToProgrammingWithR/2020-fall-stat33a
+[2020-fall-stat33b]: https://github.com/IntroToProgrammingWithR/2020-fall-stat33b
