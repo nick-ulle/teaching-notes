@@ -10,7 +10,7 @@ Year(s) | Term   | Course   | Topics
 2017-18 | Spring | STA 160  | Applied statistics projects
 2017-18 | Winter | STA 141B | Python, Data extraction & cleaning
 2016-17 | Fall   | STA 141A | R, Exploratory data analysis, Programming fundamentals
-2016    | Winter | ECS 256  | Rcpp
+2016    | Winter | ECS 256  | Rcpp, Probabilistic modeling
 2013-15 | Fall   | STA 141  | R, Mix of STA 141AB topics
 
 <!--

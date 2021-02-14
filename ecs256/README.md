@@ -1,6 +1,7 @@
 # ECS 256 - Probabilistic Modeling
 
 _Instructor: [N. Matloff][matloff]_
+
 _Winter 2016_
 
 [matloff]: http://heather.cs.ucdavis.edu/matloff.html
