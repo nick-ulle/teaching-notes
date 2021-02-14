@@ -12,10 +12,7 @@ Year(s) | Term   | Course   | Topics
 2016-17 | Fall   | STA 141A | R, Exploratory data analysis, Programming fundamentals
 2016    | Winter | ECS 256  | Rcpp, Probabilistic modeling
 2013-15 | Fall   | STA 141  | R, Mix of STA 141AB topics
-
-<!--
-STA 135  | 2014    | Spring | Multivariate statistics, machine learning
--->
+2014    | Spring | STA 135  | Multivariate statistics, Machine learning
 
 My reference sheets:
 
