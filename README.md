@@ -8,9 +8,10 @@ What's in this repository?
 Year(s) | Term   | Course   | Topics
 ------- | ------ | -------- | ------
 2017-18 | Spring | STA 160  | Applied statistics projects
-2017-18 | Winter | STA 141B | Python, data extraction & cleaning
-2016-17 | Fall   | STA 141A | R, exploratory data analysis, programming fundamentals
-2013-15 | Fall   | STA 141  | R, mix of STA 141AB topics
+2017-18 | Winter | STA 141B | Python, Data extraction & cleaning
+2016-17 | Fall   | STA 141A | R, Exploratory data analysis, Programming fundamentals
+2016    | Winter | ECS 256  | Rcpp
+2013-15 | Fall   | STA 141  | R, Mix of STA 141AB topics
 
 <!--
 STA 135  | 2014    | Spring | Multivariate statistics, machine learning
@@ -22,11 +23,13 @@ My reference sheets:
 * [Python Learning Resources][ref-python]
 * [SQL Cheatsheet][sql]
 * [Statistical Graphics Checklist][graphics-checklist]
+* [Getting Started with Rcpp][rcpp] (probably outdated)
 
 [ref-r]: references/sta141a.md
 [ref-python]: references/sta141b.md
 [sql]: workshops/sql_cheatsheet.pdf
 [graphics-checklist]: sta141a/graphics_checklist.pdf
+[rcpp]: ecs256/rcpp.pdf
 
 # My Other Teaching Notes
 

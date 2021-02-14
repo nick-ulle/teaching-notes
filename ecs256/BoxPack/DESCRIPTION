@@ -1,0 +1,14 @@
+Package: BoxPack
+Type: Package
+Title: Simulate Box-packing
+Version: 0.1
+Date: 2016-02-07
+Author: Nick Ulle
+Maintainer: Nick Ulle <nick.ulle@gmail.com>
+Description: This package simulates a discrete Markov chain concerned with
+    packing boxes with items of random weight.
+License: GPL (>= 2)
+Imports:
+    Rcpp (>= 0.12.3)
+LinkingTo: Rcpp
+RoxygenNote: 5.0.1
