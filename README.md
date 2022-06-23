@@ -62,23 +62,28 @@ Year  | Term       | Course     | Links
 
 ## Workshops & Guest Appearances
 
-Year | Organization                                    | Title                            | Links
----- | ----------------------------------------------- | -------------------------------- | -----
-2022 | [UC Davis DataLab][ucd-datalab]                 | Intermediate Python              | [Reader][intermediate-python]
-2021 | [UC Davis DataLab][ucd-datalab]                 | Python Basics                    | [Reader][python-basics]
-2021 | [UC Davis DataLab][ucd-datalab]                 | R Basics                         | [Reader][r-basics]
-2021 | [UC Davis DataLab][ucd-datalab]                 | Adventures in Data Science       | [Course Reader][2021-ist08]
-2018 | [UC Davis Data Science Initiative][ucd-datalab] | Intro to SQL                     | [Repo][2018-sql-workshop]
-2017 | [UC Davis Data Science Initiative][ucd-datalab] | Python for Data Analysis, Part 2 | [Repo][2017-python-workshop]
-2015 | [UC Davis Statistics][ucd-stats]                | Python for Data Mining           | [Repo][2015-python-workshop]
+Year | Term   | Organization                                    | Title                            | Links
+---- | ------ | ----------------------------------------------- | -------------------------------- | -----
+2022 | Spring | [UC Davis DataLab][ucd-datalab]                 | Intermediate Python              | [Reader][intermediate-python]
+2022 | Winter | [UC Davis DataLab][ucd-datalab]                 | Adventures in Data Science       | [Course Reader][ist08]
+2021 | Fall   | [UC Davis DataLab][ucd-datalab]                 | Python Basics                    | [Reader][python-basics]
+2021 | Spring | [UC Davis DataLab][ucd-datalab]                 | R Basics                         | [Reader][r-basics]
+2021 | Winter | [UC Davis DataLab][ucd-datalab]                 | Adventures in Data Science       | [Course Reader][ist08]
+2018 | Fall   | [UC Davis Data Science Initiative][ucd-datalab] | Intro to SQL                     | [Repo][2018-sql-workshop]
+2017 | Spring | [UC Davis Data Science Initiative][ucd-datalab] | Python for Data Analysis, Part 2 | [Repo][2017-python-workshop]
+2015 | Winter | [UC Davis Statistics][ucd-stats]                | Python for Data Mining           | [Repo][2015-python-workshop]
+
+Video recordings are available for many of the DataLab workshops, and can be
+found [here][ucd-datalab-workshops] (search "Ulle").
 
 [ucd-datalab]:https://datalab.ucdavis.edu/ 
+[ucd-datalab-workshops]: https://datalab.ucdavis.edu/workshops/
 [ucd-stats]:https://statistics.ucdavis.edu/
 
 [intermediate-python]: https://ucdavisdatalab.github.io/workshop_intermediate_python/
 [python-basics]: https://ucdavisdatalab.github.io/workshop_python_basics/
 [r-basics]: https://ucdavisdatalab.github.io/workshop_r_basics/
-[2021-ist08]: https://ucdavisdatalab.github.io/adventures_in_data_science/
+[ist08]: https://ucdavisdatalab.github.io/adventures_in_data_science/
 [2018-sql-workshop]: https://github.com/clarkfitzg/SQLworkshop
 [2017-python-workshop]: https://github.com/nick-ulle/2017.04-python-workshop
 [2015-python-workshop]: https://github.com/nick-ulle/2015-python
