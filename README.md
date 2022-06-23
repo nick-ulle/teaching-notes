@@ -64,6 +64,9 @@ Year  | Term       | Course     | Links
 
 Year | Organization                                    | Title                            | Links
 ---- | ----------------------------------------------- | -------------------------------- | -----
+2022 | [UC Davis DataLab][ucd-datalab]                 | Intermediate Python              | [Reader][intermediate-python]
+2021 | [UC Davis DataLab][ucd-datalab]                 | Python Basics                    | [Reader][python-basics]
+2021 | [UC Davis DataLab][ucd-datalab]                 | R Basics                         | [Reader][r-basics]
 2021 | [UC Davis DataLab][ucd-datalab]                 | Adventures in Data Science       | [Course Reader][2021-ist08]
 2018 | [UC Davis Data Science Initiative][ucd-datalab] | Intro to SQL                     | [Repo][2018-sql-workshop]
 2017 | [UC Davis Data Science Initiative][ucd-datalab] | Python for Data Analysis, Part 2 | [Repo][2017-python-workshop]
@@ -72,6 +75,9 @@ Year | Organization                                    | Title                  
 [ucd-datalab]:https://datalab.ucdavis.edu/ 
 [ucd-stats]:https://statistics.ucdavis.edu/
 
+[intermediate-python]: https://ucdavisdatalab.github.io/workshop_intermediate_python/
+[python-basics]: https://ucdavisdatalab.github.io/workshop_python_basics/
+[r-basics]: https://ucdavisdatalab.github.io/workshop_r_basics/
 [2021-ist08]: https://ucdavisdatalab.github.io/adventures_in_data_science/
 [2018-sql-workshop]: https://github.com/clarkfitzg/SQLworkshop
 [2017-python-workshop]: https://github.com/nick-ulle/2017.04-python-workshop
