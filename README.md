@@ -34,7 +34,7 @@ My notes and reference sheets:
 Notes from courses I instructed (and developed) are in separate repositories
 linked below.
 
-I also [maintain a set of personal research computing notes called [Nick's Bag
+I also maintain a set of personal research computing notes called [Nick's Bag
 of Tricks][bag].
 
 [bag]: https://nick-ulle.github.io/bag-of-tricks/
