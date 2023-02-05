@@ -14,7 +14,7 @@ Year(s) | Term   | Course   | Topics
 2013-15 | Fall   | STA 141  | R, Mix of STA 141AB topics
 2014    | Spring | STA 135  | Multivariate statistics, Machine learning
 
-My reference sheets:
+My notes and reference sheets:
 
 * [R Learning Resources][ref-r]
 * [Python Learning Resources][ref-python]
@@ -28,9 +28,16 @@ My reference sheets:
 [graphics-checklist]: sta141a/graphics_checklist.pdf
 [rcpp]: ecs256/rcpp.pdf
 
+
 # My Other Teaching Notes
 
-Notes from courses I instructed (and developed) are in separate repositories.
+Notes from courses I instructed (and developed) are in separate repositories
+linked below.
+
+I also [maintain a set of personal research computing notes called [Nick's Bag
+of Tricks][bag].
+
+[bag]: https://nick-ulle.github.io/bag-of-tricks/
 
 ## Courses
 
@@ -64,6 +71,9 @@ Year  | Term       | Course     | Links
 
 Year | Term   | Organization                                    | Title                            | Links
 ---- | ------ | ----------------------------------------------- | -------------------------------- | -----
+2023 | Spring | [UC Davis DataLab][ucd-datalab]                 | Python Data Visualization        | [Reader][intermediate-python]
+2023 | Winter | [UC Davis DataLab][ucd-datalab]                 | Intermediate R                   | [Reader][intermediate-r]
+2022 | Summer | [UC Davis DataLab][ucd-datalab]                 | R Basics                         | [Reader][r-basics]
 2022 | Spring | [UC Davis DataLab][ucd-datalab]                 | Intermediate Python              | [Reader][intermediate-python]
 2022 | Winter | [UC Davis DataLab][ucd-datalab]                 | Adventures in Data Science       | [Course Reader][ist08]
 2021 | Fall   | [UC Davis DataLab][ucd-datalab]                 | Python Basics                    | [Reader][python-basics]
@@ -80,10 +90,12 @@ found [here][ucd-datalab-workshops] (search "Ulle").
 [ucd-datalab-workshops]: https://datalab.ucdavis.edu/workshops/
 [ucd-stats]:https://statistics.ucdavis.edu/
 
-[intermediate-python]: https://ucdavisdatalab.github.io/workshop_intermediate_python/
-[python-basics]: https://ucdavisdatalab.github.io/workshop_python_basics/
 [r-basics]: https://ucdavisdatalab.github.io/workshop_r_basics/
-[ist08]: https://ucdavisdatalab.github.io/adventures_in_data_science/
+[intermediate-r]: https://ucdavisdatalab.github.io/workshop_intermediate_r/
+[python-basics]: https://ucdavisdatalab.github.io/workshop_python_basics/
+[intermediate-python]: https://ucdavisdatalab.github.io/workshop_intermediate_python/
 [2018-sql-workshop]: https://github.com/clarkfitzg/SQLworkshop
 [2017-python-workshop]: https://github.com/nick-ulle/2017.04-python-workshop
 [2015-python-workshop]: https://github.com/nick-ulle/2015-python
+
+[ist08]: https://ucdavisdatalab.github.io/adventures_in_data_science/
