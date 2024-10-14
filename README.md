@@ -39,7 +39,7 @@ of Tricks][bag].
 
 [bag]: https://nick-ulle.github.io/bag-of-tricks/
 
-## Workshops & Guest Appearances
+## Workshops
 
 Year | Term   | Organization                                    | Title                                  | Links
 ---- | ------ | ----------------------------------------------- | -------------------------------------- | -----
@@ -82,7 +82,7 @@ found [here][ucd-datalab-workshops] (search "Ulle").
 [2017-python-workshop]: https://github.com/nick-ulle/2017.04-python-workshop
 [2015-python-workshop]: https://github.com/nick-ulle/2015-python
 
-## Guest Appearances
+## Guest Lectures
 
 Year | Term   | Organization                    | Title                                | Links
 ---- | ------ | ------------------------------- | ------------------------------------ | -----
