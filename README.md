@@ -53,10 +53,8 @@ Year | Term   | Organization                                    | Title         
 2023 | Winter | [UC Davis DataLab][ucd-datalab]                 | Intermediate R                         | [Reader][intermediate-r]
 2022 | Summer | [UC Davis DataLab][ucd-datalab]                 | R Basics                               | [Reader][r-basics]
 2022 | Spring | [UC Davis DataLab][ucd-datalab]                 | Intermediate Python                    | [Reader][intermediate-python]
-2022 | Winter | [UC Davis DataLab][ucd-datalab]                 | Adventures in Data Science             | [Course Reader][ist08]
 2021 | Fall   | [UC Davis DataLab][ucd-datalab]                 | Python Basics                          | [Reader][python-basics]
 2021 | Spring | [UC Davis DataLab][ucd-datalab]                 | R Basics                               | [Reader][r-basics]
-2021 | Winter | [UC Davis DataLab][ucd-datalab]                 | Adventures in Data Science             | [Course Reader][ist08]
 2018 | Fall   | [UC Davis Data Science Initiative][ucd-datalab] | Intro to SQL                           | [Repo][2018-sql-workshop]
 2017 | Spring | [UC Davis Data Science Initiative][ucd-datalab] | Python for Data Analysis, Part 2       | [Repo][2017-python-workshop]
 2015 | Winter | [UC Davis Statistics][ucd-stats]                | Python for Data Mining                 | [Repo][2015-python-workshop]
@@ -83,6 +81,14 @@ found [here][ucd-datalab-workshops] (search "Ulle").
 [2018-sql-workshop]: https://github.com/clarkfitzg/SQLworkshop
 [2017-python-workshop]: https://github.com/nick-ulle/2017.04-python-workshop
 [2015-python-workshop]: https://github.com/nick-ulle/2015-python
+
+## Guest Appearances
+
+Year | Term   | Organization                    | Title                                | Links
+---- | ------ | ------------------------------- | ------------------------------------ | -----
+2024 | Winter | [UC Davis DataLab][ucd-datalab] | Adventures in Data Science (STS 115) | [Course Reader][ist08]
+2022 | Winter | [UC Davis DataLab][ucd-datalab] | Adventures in Data Science (IST 8)   | [Course Reader][ist08]
+2021 | Winter | [UC Davis DataLab][ucd-datalab] | Adventures in Data Science (IST 8)   | [Course Reader][ist08]
 
 [ist08]: https://ucdavisdatalab.github.io/adventures_in_data_science/
 
