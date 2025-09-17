@@ -43,6 +43,15 @@ of Tricks][bag].
 
 Year | Term   | Organization                                    | Title                                  | Links
 ---- | ------ | ----------------------------------------------- | -------------------------------------- | -----
+2025 | Summer | [Davis Python Users Group][dpug]                | Comfy Command Line                     | [Repo][2025-comfy]
+2025 | Spring | [UC Davis DataLab][ucd-datalab]                 | Intro to Remote Computing              | [Reader][intro-remote]
+2025 | Spring | [UC Davis DataLab][ucd-datalab]                 | Python Basics                          | [Reader][python-basics]
+2025 | Spring | [Davis Python Users Group][dpug]                | Intro to Computer Vision               | [Reader][2025-intro-cv]
+2025 | Spring | [UC Davis DataLab][ucd-datalab]                 | Intro to Version Control               | [Reader][intro-vcs]
+2025 | Winter | [UC Davis DataLab][ucd-datalab]                 | Intermediate Python                    | [Reader][intermediate-python]
+2024 | Fall   | [UC Davis DataLab][ucd-datalab]                 | Python Basics                          | [Reader][python-basics]
+2024 | Fall   | [UC Davis DataLab][ucd-datalab]                 | Reproducibility Principles & Practices | [Reader][repro]
+2024 | Fall   | [UC Davis DataLab][ucd-datalab]                 | Intro to Remote Computing              | [Reader][intro-remote]
 2024 | Spring | [UC Davis DataLab][ucd-datalab]                 | Machine Learning in R                  | [Reader][ml-in-r]
 2024 | Spring | [UC Davis DataLab][ucd-datalab]                 | Overview of Machine Learning           | [Reader][ml-in-r]
 2024 | Winter | [UC Davis DataLab][ucd-datalab]                 | Intro to Remote Computing              | [Reader][intro-remote]
@@ -66,8 +75,11 @@ found [here][ucd-datalab-workshops] (search "Ulle").
 [ucd-datalab-workshops]: https://datalab.ucdavis.edu/workshops/
 [ucd-stats]:https://statistics.ucdavis.edu/
 [ucjug]: https://datalab.ucdavis.edu/julia-users-group/
+[dpug]: https://datalab.ucdavis.edu/davis-python-users-group/
 
 [repro]: https://ucdavisdatalab.github.io/workshop_reproducible_research/
+[intro-vcs]: https://ucdavisdatalab.github.io/workshop_reproducible_research/chapters/version-control/01_version-control-systems.html
+
 [intro-remote]: https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/
 
 [r-basics]: https://ucdavisdatalab.github.io/workshop_r_basics/
@@ -82,10 +94,14 @@ found [here][ucd-datalab-workshops] (search "Ulle").
 [2017-python-workshop]: https://github.com/nick-ulle/2017.04-python-workshop
 [2015-python-workshop]: https://github.com/nick-ulle/2015-python
 
+[2025-intro-cv]: https://d-pug.github.io/2025_computer_vision/
+[2025-comfy]: https://github.com/d-pug/2025_command_line
+
 ## Guest Lectures
 
 Year | Term   | Organization                    | Title                                | Links
 ---- | ------ | ------------------------------- | ------------------------------------ | -----
+2025 | Winter | [UC Davis DataLab][ucd-datalab] | Adventures in Data Science (STS 115) | [Course Reader][ist08]
 2024 | Winter | [UC Davis DataLab][ucd-datalab] | Adventures in Data Science (STS 115) | [Course Reader][ist08]
 2022 | Winter | [UC Davis DataLab][ucd-datalab] | Adventures in Data Science (IST 8)   | [Course Reader][ist08]
 2021 | Winter | [UC Davis DataLab][ucd-datalab] | Adventures in Data Science (IST 8)   | [Course Reader][ist08]
